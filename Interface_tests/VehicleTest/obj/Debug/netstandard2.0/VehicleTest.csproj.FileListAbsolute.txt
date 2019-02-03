@@ -1,0 +1,9 @@
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.csprojAssemblyReference.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.csproj.CoreCompileInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.AssemblyInfoInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.AssemblyInfo.cs
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\bin\Debug\netstandard2.0\VehicleTest.deps.json
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\bin\Debug\netstandard2.0\VehicleTest.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\bin\Debug\netstandard2.0\VehicleTest.pdb
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\VehicleTest\obj\Debug\netstandard2.0\VehicleTest.pdb

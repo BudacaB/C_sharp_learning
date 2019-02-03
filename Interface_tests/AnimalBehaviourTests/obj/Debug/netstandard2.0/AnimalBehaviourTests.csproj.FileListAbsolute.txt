@@ -1,0 +1,9 @@
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\bin\Debug\netstandard2.0\AnimalBehaviourTests.deps.json
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\bin\Debug\netstandard2.0\AnimalBehaviourTests.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\bin\Debug\netstandard2.0\AnimalBehaviourTests.pdb
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.csprojAssemblyReference.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.csproj.CoreCompileInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.AssemblyInfoInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.AssemblyInfo.cs
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\AnimalBehaviourTests\obj\Debug\netstandard2.0\AnimalBehaviourTests.pdb

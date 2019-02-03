@@ -1,0 +1,9 @@
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\bin\Debug\netstandard2.0\Interface_tests.deps.json
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\bin\Debug\netstandard2.0\Interface_tests.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\bin\Debug\netstandard2.0\Interface_tests.pdb
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\obj\Debug\netstandard2.0\Interface_tests.csprojAssemblyReference.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\obj\Debug\netstandard2.0\Interface_tests.csproj.CoreCompileInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\obj\Debug\netstandard2.0\Interface_tests.AssemblyInfoInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\obj\Debug\netstandard2.0\Interface_tests.AssemblyInfo.cs
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\obj\Debug\netstandard2.0\Interface_tests.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Interface_tests\obj\Debug\netstandard2.0\Interface_tests.pdb
