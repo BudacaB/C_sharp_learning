@@ -1,0 +1,9 @@
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\bin\Debug\netstandard2.0\SerializationTest.deps.json
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\bin\Debug\netstandard2.0\SerializationTest.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\bin\Debug\netstandard2.0\SerializationTest.pdb
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.csprojAssemblyReference.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.csproj.CoreCompileInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.AssemblyInfoInputs.cache
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.AssemblyInfo.cs
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\SerializationTest\obj\Debug\netstandard2.0\SerializationTest.pdb

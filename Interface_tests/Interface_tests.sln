@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_tests", "Interface_tests\Interface_tests.csproj", "{BDB8A5EE-8994-401B-A829-F14D96E47367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_tests", "Interface_tests\Interface_tests.csproj", "{BDB8A5EE-8994-401B-A829-F14D96E47367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B808A2A7-9A48-4CC1-B2BB-77A7E63A78F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{B808A2A7-9A48-4CC1-B2BB-77A7E63A78F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalBehaviourTests", "AnimalBehaviourTests\AnimalBehaviourTests.csproj", "{081133CB-5E45-4D91-B4DA-88583BAB3CE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalBehaviourTests", "AnimalBehaviourTests\AnimalBehaviourTests.csproj", "{081133CB-5E45-4D91-B4DA-88583BAB3CE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleTest", "VehicleTest\VehicleTest.csproj", "{618DF5D9-72A4-4639-9DB1-5983175BCAE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleTest", "VehicleTest\VehicleTest.csproj", "{618DF5D9-72A4-4639-9DB1-5983175BCAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationTest", "SerializationTest\SerializationTest.csproj", "{5F5E97FA-8AA8-4D94-9EE4-458D7E0058AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{618DF5D9-72A4-4639-9DB1-5983175BCAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618DF5D9-72A4-4639-9DB1-5983175BCAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618DF5D9-72A4-4639-9DB1-5983175BCAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5E97FA-8AA8-4D94-9EE4-458D7E0058AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5E97FA-8AA8-4D94-9EE4-458D7E0058AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5E97FA-8AA8-4D94-9EE4-458D7E0058AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5E97FA-8AA8-4D94-9EE4-458D7E0058AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

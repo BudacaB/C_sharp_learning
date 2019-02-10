@@ -16,3 +16,5 @@ D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Tests\bin\Debug\netcore
 D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Tests\bin\Debug\netcoreapp2.1\Interface_tests.pdb
 D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Tests\bin\Debug\netcoreapp2.1\VehicleTest.pdb
 D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Tests\bin\Debug\netcoreapp2.1\SerializationTest.dll
+D:\Bootcamp\study_group\C_sharp_learning\Interface_tests\Tests\bin\Debug\netcoreapp2.1\SerializationTest.pdb
