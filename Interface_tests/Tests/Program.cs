@@ -14,7 +14,7 @@ namespace Tests
         static void Main(string[] args)
         {
 
-            var cards = new List<NbaCard>()
+            var cards = new List<Card>()
             {
                 new NbaCard()
                 {
@@ -40,17 +40,28 @@ namespace Tests
                 {
                     Title = "johnson",
                     Link = "https://www.sbs.com.au/guide/sites/sbs.com.au.guide/files/styles/full/public/magic-johnson-action-portrait_header.jpeg?itok=HjCBvoYj"
+                },
+                new NflCard()
+                {
+                    Title = "lynch",
+                    Link =  "https://nbcprofootballtalk.files.wordpress.com/2012/09/073008_lynch_wide.jpg?w=560&h=316&crop=1"
+                },
+                new NflCard()
+                {
+                    Title = "brady",
+                    Link = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tom_Brady_2017.JPG/220px-Tom_Brady_2017.JPG"
                 }
             };
 
 
             foreach (var card in cards)
             {
-                var serializedCardInfo = JsonConvert.SerializeObject(card);
-                Console.WriteLine(serializedCardInfo);
-                var deserializedCardInfo = JsonConvert.DeserializeObject<NbaCard>(serializedCardInfo);
-                Console.WriteLine(deserializedCardInfo.ToString());
-                Console.WriteLine(Environment.NewLine);
+                Console.WriteLine(card.ShowCard());
+                //var serializedCardInfo = JsonConvert.SerializeObject(card);
+                //Console.WriteLine(serializedCardInfo);
+                //var deserializedCardInfo = JsonConvert.DeserializeObject<NbaCard>(serializedCardInfo);
+                //Console.WriteLine(deserializedCardInfo.ShowCard());
+                //Console.WriteLine(Environment.NewLine);
             }
             Console.ReadLine();
 
